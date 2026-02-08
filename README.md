@@ -9,7 +9,7 @@
 ![s3](Screenshots/Screenshot_3.png)
 
 ### **Tech Stack**
-Databricks Delta Live Tables (DLT), PySpark, Spark SQL, Workflows (Jobs), Databricks SQL Dashboards.
+Databricks Delta Live Tables (DLT), Autoloader, Unity Catalog, PySpark, Spark SQL, Workflows (Jobs), Databricks SQL Dashboards.
 
 ### **Description**
 1. Data Ingestion (Bronze Layer)
