@@ -1,4 +1,4 @@
-## **Real Time Stream Processing Pipeline Using Delta Live Tables**
+## **Real Time Data Processing Pipeline Using Delta Live Tables**
 <br>
 
 ### **Overview**
